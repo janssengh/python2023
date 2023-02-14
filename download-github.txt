@@ -1,0 +1,2 @@
+###### para baixar do repositorio github
+git clone https://github/janssengh/python

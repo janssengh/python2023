@@ -1,0 +1,134 @@
+Link principal: C:\Roeland\Principal\Marketing digital\SoftGraf
+
+1)Carregar link's:
+YOUTUBE:
+Executar
+Compartilhar
+Incorporar
+Qualquer
+
+MAPA GOOGLE:
+Pesquisar google maps
+Colocar o endereço
+Compartilhar
+Incorporar um mapa
+Copiar HTML
+
+2)Observações:
+Obter código hexadecimal: google paleta de cores
+Uso do rgb (sem opacidade) e rgba (com opacidade)
+Tabela banco de dados para login e senha, usa-se 255 VARCHAR
+Renan psicologia - Inspeções irregulares (REGEX)
+
+3)No CSS:
+Padding: aumenta interno
+Margin: aumenta externo
+
+4)Teclas que facilitam:
+-Ctrl+Z – Desfaz alteração
+-Ctrl+X – Recorta
+-Ctrl+A – Seleciona tudo
+-Ctrl+C – Copia
+-Ctrl+V – Cola 
+-Alt+Shift+ --> Avança à direita, selecionando cada comando, para  recortar o copiar	
+-Ctrl+K e Ctrl+C – Tira o comentário e coloca o comentário
+-Vários div’s e por último a lista – div>div>div>li
+-Tecla para ajustar dentro de uma div:Ctrl+Alt+Schift+F
+-F2 Renomear um arquivo
+-CTRL+C (copia) CTRL+V (Cola) um arquivo no próprio VSCODE
+-Procurar função (CTRL+...)
+
+5)Sites/Instalações
+-Unicode tabela de caracteres para o HTML: https://unicode-table.com/pt/html-entities/
+-comandos do reset.css: https://meyerweb.com/eric/tools/css/reset/
+-tipos de entrada móvel: http://mobileinputtypes.com/
+-Download git bash (instala os comandos no prompt de comando): https://git-scm.com/downloads
+Baixar para windows / Git de 64 bits para instalação do Windows .
+
+-testar e executar CSS: 
+https://www.w3schools.com/cssref/index.php
+CSS Reference - css reference
+Try It Yourself
+accent-color
+Run
+
+-Pesquisar um Unicode com flores:
+Pesquisar no google: xaal unicode plants Flowers
+Selecionar, copiar e colar
+
+-Codificar javascript:
+https://editor.p5js.org/
+Ctrl+S (Salva o arquivo)
+Clicar em Help / Reference: Shape (No jogo de raquetes usado o circle( ));  
+Clicar em Help / Reference / Libraries (No jogo de raquetes foi baixado o p5.collide2D); Descompactar
+Clicar em Sketch Files / Upload file – Para carregar o arquivo baixado
+
+-Para ver código correspondente a uma tecla: Keycode.info
+https://www.toptal.com/developers/keycode
+Press any key...
+Ex.seta para cima = 38; seta para baixo: 40
+
+-Para conectar com o banco de dados, instalar as bibliotecas, no terminal:
+npm install mysql2
+npm install express
+Quando executar, Ctrl+C, para cancelar no terminal
+
+-A ferramenta banco de dados relacional (DBEAVER) que pode ser usada, baixar e usar:
+MySQL Workbench 8.0
+
+-Baixar o app inmsonia (download insomnia for Windows), para testar as requisições de nossas APIs
+Definição: https://hcode.com.br/blog/usando-insomnia-para-testar-as-requisicoes-de-nossas-apis
+
+-Instalar no google Chrome a extensão:
+JSON VIEWER: https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt
+Clique em Usar  o Chrome
+Em maiis ferramentas, clique em extensões, para visualizar as extensões instaladas
+Bootstrap – getting started (Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo) - https://getbootstrap.com/docs/5.2/getting-started/introduction/
+Ex Forms (Formulários)
+Use o comando alert(‘deu certo’) no Javascript para mensagens de teste.
+Porta padrão web 8080
+
+-Salvar fotos no site do AMAZON:
+BUCKIT
+
+-Criptografar - biblioteca 
+Banco usa-se o PAGSEGURO
+
+-Pesquisar as melhores ferramentas de programação, no google tiobe index
+https://www.tiobe.com/tiobe-index/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6)GET/POST
+GET - Get = http://127.... (localhost ou endereço IP) – Retorna valor
+POST não retorna valor (oculto)
+
+7)Google fonts
+Clicar no lado direito(+), e copiar o link
+
+
+
+
+
+
+
+
+
