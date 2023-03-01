@@ -1,0 +1,12 @@
+CREATE TABLE contato (
+    id       INTEGER    PRIMARY KEY AUTOINCREMENT,
+    nome     TEXT (100) NOT NULL,
+    email    TEXT (100),
+    telefone TEXT (14) 
+);
+select * from contato where id=1 or id=3;
+insert into contato (nome, email, telefone) values ('Luiz Carlos', 'luiz@gmail.com', '(42) 99999-6542');
+delete from contato where id=4;
+update contato set nome='Ambrosio Justiniano' where id=3;
+
+CRUD
