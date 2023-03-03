@@ -1,0 +1,51 @@
+<!--
+  {#
+    Tipos de delimitadores do Jinja2:
+
+    {%  %} usado para inserir código python dentro do html
+    {{  }} usado para exibir código pytyon de saída dentro do html
+    {#  #} usado para comentar código python
+  #}
+-->
+
+
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>{{titulo}}</title>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Descrição</th>
+                <th>Preço Unitário</th>
+                <th>Quant. Estoque</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            {% for p in produtos %}
+
+            <tr>
+                <td>{{p.id}}</td>
+                <td>{{p.descricao}}</td>
+                <td>{{p.preco}}</td>
+                <td>{{p.quantidade}}</td>
+            </tr>
+
+            {% endfor %}
+
+        </tbody>
+
+    </table>
+
+
+
+</body>
+</html>
